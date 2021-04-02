@@ -1,0 +1,6 @@
+[submodule "ecommerce-checkout-api"]
+	path = ecommerce-checkout-api
+	url = https://github.com/leonardovallem/ecommerce-checkout-api
+[submodule "ecommerce-payment-api"]
+	path = ecommerce-payment-api
+	url = https://github.com/leonardovallem/ecommerce-payment-api
